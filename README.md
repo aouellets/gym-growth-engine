@@ -1,8 +1,8 @@
 # Gym Growth Engine
 
-**The operator stack to fill, sell, and scale a gym.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For gym owners: fill the calendar, close consults, and scale on proven unit economics.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-The operator's stack for running a gym on the offer, lead-gen, sales, and money-model frameworks behind Gym Launch and Acquisition.com. Model unit economics and Client-Financed Acquisition, build a Grand Slam Offer and premium pricing, fill the gym with a transformation challenge and Meta ads, close with the CLOSER consult and beat objections, kill churn, drive referrals, and run it all on a KPI scoreboard. Every skill operationalizes the method with runnable calculators and ready templates.
+Turn a single-location gym into a predictable growth machine using the offer, lead-gen, sales, and money-model playbooks behind Gym Launch and Acquisition.com. Reach for it when you need more members but ads stall, when your offer or pricing isn't converting, when consults leak or members churn, or when you're stuck in the day-to-day and need KPIs, referrals, and hires to scale. Each skill ships runnable calculators and ready-to-send templates, so you leave with a decision and an artifact — not theory.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
@@ -14,18 +14,18 @@ The operator's stack for running a gym on the offer, lead-gen, sales, and money-
 
 ## Skills in this pack
 
-- **[Gym Money Model](skills/gym-money-model/SKILL.md)** — Model the unit economics of a gym so growth self-funds: CAC, 30-day cash, LTV, LTV:CAC, payback, and Client-Financed Acquisition.
-- **[Grand Slam Offer Builder](skills/grand-slam-offer-builder/SKILL.md)** — Design or sharpen a gym offer with the Value Equation and the Grand Slam Offer stack: dream outcome, problems, solutions, scarcity, urgency, bonuses, naming.
-- **[Gym Pricing and Guarantees](skills/gym-pricing-and-guarantees/SKILL.md)** — Set premium gym price points and design guarantees that remove buyer risk without destroying margin.
-- **[Core Four Lead Engine](skills/core-four-lead-engine/SKILL.md)** — Plan and run the four ways to get gym leads: warm outreach, content, cold outreach, paid ads, with the daily volume math.
-- **[Gym Transformation Challenge](skills/gym-transformation-challenge/SKILL.md)** — Design the 6-week transformation challenge front-end that fills the gym at low friction and converts to recurring membership.
-- **[Gym Meta Ads Funnel](skills/gym-meta-ads-funnel/SKILL.md)** — Write, structure, and budget the Meta ad funnel that fills the transformation challenge, with hooks, angles, and cost benchmarks.
-- **[CLOSER Sales Script](skills/closer-sales-script/SKILL.md)** — Run the gym intro consult to close with the CLOSER framework: Clarify, Label, Overview, Sell the vacation, Explain concerns, Reinforce.
-- **[Objection Handling and Speed to Lead](skills/objection-handling-and-speed-to-lead/SKILL.md)** — Convert more gym leads by contacting them within minutes and dissolving the four core objections: price, time, spouse, and think about it.
-- **[Retention and Churn Killer](skills/retention-and-churn-killer/SKILL.md)** — Cut gym churn by engineering onboarding, results delivery, and the first 100 days, with save and win-back scripts.
-- **[Referral and Affiliate System](skills/referral-and-affiliate-system/SKILL.md)** — Get others to sell for the gym using the four lead-getters: referrals, affiliates, agencies, and employees.
-- **[KPI Scoreboard and Cadence](skills/kpi-scoreboard-and-cadence/SKILL.md)** — Build the gym scoreboard and the daily, weekly, and monthly meeting cadence that runs the business on numbers.
-- **[Hiring A-Players and SOPs](skills/hiring-a-players-and-sops/SKILL.md)** — Recruit A-players with a role-outcome hiring funnel and turn owner know-how into transferable SOPs.
+- **[Gym Money Model](skills/gym-money-model/SKILL.md)** — Model gym unit economics — Client-Financed Acquisition, 30-day cash, CAC, LTV, LTV:CAC, and payback — and return a verdict on whether growth self-funds.
+- **[Grand Slam Offer Builder](skills/grand-slam-offer-builder/SKILL.md)** — Build or sharpen a gym's core offer into a one-page canvas — Value-Equation score, problem-to-solution stack, scarcity/urgency/bonus amplifiers, and a MAGIC name — so the right prospect feels stupid saying no.
+- **[Gym Pricing and Guarantees](skills/gym-pricing-and-guarantees/SKILL.md)** — Set a single-location gym's price points and design a risk-reversal guarantee it can actually afford, with margin math so a refund never bleeds the business.
+- **[Core Four Lead Engine](skills/core-four-lead-engine/SKILL.md)** — Pick the lead channels that fit a gym's stage, back daily activity out of a member goal, and build a 30-day lead plan across the Core Four (warm outreach, content, cold outreach, paid ads).
+- **[Gym Transformation Challenge](skills/gym-transformation-challenge/SKILL.md)** — Designs a gym's 6-week transformation challenge as a self-funding front-end offer and the week-by-week ascension that converts challengers into recurring members.
+- **[Gym Meta Ads Funnel](skills/gym-meta-ads-funnel/SKILL.md)** — Write gym Meta (Facebook/Instagram) ad creative, structure the lead-to-consult funnel, set the budget, and read funnel costs against the challenge economics.
+- **[CLOSER Sales Script](skills/closer-sales-script/SKILL.md)** — Produce and run a word-for-word gym intro-consult script using the CLOSER sequence (Clarify, Label, Overview, Sell, Explain, Reinforce) to take a booked lead to a paid membership.
+- **[Objection Handling and Speed to Lead](skills/objection-handling-and-speed-to-lead/SKILL.md)** — Builds the speed-to-lead system, multi-touch follow-up cadence, and four-objection response framework that stop a gym from losing leads to slow contact or stalled consults.
+- **[Retention and Churn Killer](skills/retention-and-churn-killer/SKILL.md)** — Build a gym member-retention system — a first-100-days onboarding sprint, results-tracking cadence, attendance-based churn-save triggers, win-back sequences, and a churn-impact calculator.
+- **[Referral and Affiliate System](skills/referral-and-affiliate-system/SKILL.md)** — Build a gym's member-referral engine and local affiliate, employee, and agency lead-getter system, with ask scripts, partnership terms, a volume projection, and a monthly cadence.
+- **[KPI Scoreboard and Cadence](skills/kpi-scoreboard-and-cadence/SKILL.md)** — Build a gym's KPI scoreboard, separate leading from lagging indicators, and set the daily/weekly/monthly meeting cadence that turns numbers into decisions.
+- **[Hiring A-Players and SOPs](skills/hiring-a-players-and-sops/SKILL.md)** — Build a gym's role-outcome hiring funnel — scorecards, work-sample screening, A-player pay logic, hire-order sequencing — and turn the owner's work into handoff-ready SOPs.
 
 ## License
 
